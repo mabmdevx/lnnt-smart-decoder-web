@@ -1,0 +1,2 @@
+[site mode]
+site_mode = LOCAL   # Possible values: LOCAL | DEVTEST | DEV | LIVETEST | LIVE 

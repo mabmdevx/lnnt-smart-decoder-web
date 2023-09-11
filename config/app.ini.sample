@@ -1,0 +1,9 @@
+[site]
+SITE_NAME     = Smart Decoder
+SITE_SHORT_NAME = SMART-DECODER
+
+[database]
+DB_HOST     = localhost
+DB_NAME     = smart_decoder
+DB_USER     = dbuserxyz
+DB_PASSWORD = dbpasswordxyz
